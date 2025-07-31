@@ -60,7 +60,7 @@
       <img src="https://img.shields.io/badge/🧠 Transformer_from_Scratch-orange?style=for-the-badge" />
     </a>
     <a href="https://github.com/Jackksonns/AIGC-Paper-Survey">
-      <img src="https://img.shields.io/badge/📄 AIGC_Paper_Survey-blueviolet?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/📄 Agent-blueviolet?style=for-the-badge" />
     </a>
     <a href="#">
       <img src="https://img.shields.io/badge/📈 Vision+Finance_Modeling-grey?style=for-the-badge" />
