@@ -81,9 +81,3 @@ continuously learning, wanting to help the community
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/xcode.svg" height="35px" style="vertical-align:top; margin:6px 4px" alt=""/>
 
 </p>
-
-
-
-<p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=alexnaiman&theme=tokyonight&show_icons=true"  alt=""/>
-</p>
