@@ -1,7 +1,30 @@
 
 
 ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
-
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="10" style="border-radius: 15px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <tr>
+      <td align="center" width="50%" style="background-color: #282a36; border-radius: 15px;">
+        <p>
+          <img src="https://avatars.githubusercontent.com/u/181991025?v=4" width="110" height="110" style="border-radius: 50%; border: 2px solid #ff79c6;" />
+        </p>
+        <h3 style="color: #f8f8f2; margin: 8px 0;">Jackksonns</h3>
+        <p style="color: #f8f8f2;">
+          Dual Degree Student<br>
+          Information Management & Information Systems<br>
+          South China Normal University 🇨🇳<br>
+          University of Aberdeen 🇬🇧
+        </p>
+        <p>
+          <a href="mailto:2963087383@qq.com">
+            <img src="https://img.shields.io/badge/Email-2963087383%40qq.com-blue?style=flat-square&logo=gmail"/>
+          </a>
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Birthday-2005--06--24-ff69b4?style=flat-square&logo=birthday"/>
+          <img src="https://img.shields.io/badge/Location-Guangzhou-success?style=flat-square&logo=google-maps"/>
+          <img src="https://img.shields.io/badge/WeChat-fighter2333effort666-brightgreen?style=flat-square&logo=wechat" />
+        </p>
 <p align="center" >
   <samp>
     My name is <em>Jackson KK</em>. I am a Fullstack 'n' mobile developer... 
