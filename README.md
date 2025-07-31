@@ -87,12 +87,12 @@
 
 
 
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> That’s the polished version of me, but here’s the fun side…
 
 <p align="center">
   <samp>
-    My name is <em>Your Name</em>. I am a passionate researcher diving into the worlds of Computer Vision and Finance...<br/>
-    Dual-degree scholar in Information Management & Information Systems at South China Normal University and the University of Aberdeen.<br/>
+    My name is <em>Jackson KK</em>. I am a passionate researcher diving into the worlds of Computer Vision and Finance...<br/>
+    Dual-degree scholar in Information Management & Information Systems at South China Normal University and University of Aberdeen.<br/>
     Data cruncher... Algorithm enthusiast... Probably overthinking how to optimize my coffee intake.<br/>
     (<em>current</em>) Full-time student, part-time dreamer.<br/>
     <br/>
