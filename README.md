@@ -20,9 +20,9 @@
           </a>
         </p>
         <p>
-          <img src="https://img.shields.io/badge/Birthday-2005--06--24-ff69b4?style=flat-square&logo=birthday"/>
+          
           <img src="https://img.shields.io/badge/Location-Guangzhou-success?style=flat-square&logo=google-maps"/>
-          <img src="https://img.shields.io/badge/WeChat-fighter2333effort666-brightgreen?style=flat-square&logo=wechat" />
+        
         </p>
       </td>
       <td align="center" width="50%" style="background-color: #282a36; border-radius: 15px;">
