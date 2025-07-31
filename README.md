@@ -21,7 +21,7 @@
           <img src="https://img.shields.io/badge/Location-Guangzhou-success?style=flat-square&logo=google-maps"/>
         </p>
 
-
+</div>
 ---
 
 <div align="center">
@@ -55,7 +55,7 @@
 
 
 
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" />That’s the polished version of me, but here’s the fun side…
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
 
 <p align="center" >
   <samp>
@@ -76,7 +76,7 @@ continuously learning, wanting to help the community
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
 
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/3243_take_my_money.png" height="40px"  alt=""/> Blind Image Restoration (BIR), SwinIR, DiffBIR-learning-explanation,etc.
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/3243_take_my_money.png" height="40px"  alt=""/>  a finnance mobile app
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px"  alt=""/>  games developed with some friends
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
@@ -84,7 +84,7 @@ continuously learning, wanting to help the community
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gesture.jpeg" width="30px"  alt=""/> Complex animations and Gesture Handling on React-Native
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/unity.png" height="30px"  alt=""/> Unity 'n' Game Design
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/functional.png" height="30px"  alt=""/> Functional Programming
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/ml.png" height="35px"  alt=""/> Deep Learning
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/ml.png" height="35px"  alt=""/> ML
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> I’m looking to collaborate on ...
 
@@ -98,17 +98,13 @@ continuously learning, wanting to help the community
 
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px"  alt=""/> anything, I am really a talkative person, happy to help 
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" />
-
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /><img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/bash.svg" height="35px" style="vertical-align:top; margin:6px 4px"  alt=""/>
       <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg" height="35px" style="vertical-align:top; margin:6px 4px"  alt=""/>
-       <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/gamedev.svg" height="35px" style="vertical-align:top; margin:6px 4px"  alt=""/>
         <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="35px" style="vertical-align:top; margin:6px 4px"  alt=""/>
           <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top; margin:6px 4px"  alt=""/>
-           <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/mobile.svg" height="35px" style="vertical-align:top; margin:6px 4px"  alt=""/>
             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/nodejs.svg" height="35px" style="vertical-align:top; margin:6px 4px"  alt=""/>
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="35px" style="vertical-align:top; margin:6px 4px"  alt=""/>
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top; margin:6px 4px" alt=""/>
