@@ -5,18 +5,18 @@
     <tr>
       <td align="center" width="50%" style="background-color: #282a36; border-radius: 15px;">
       <p>
-        <img src="https://avatars.githubusercontent.com/u/147895238?v=4" width="110" height="110" style="border-radius: 50%; border: 2px solid #ff79c6;" />
+        <img src="https://avatars.githubusercontent.com/u/134331238?v=4" width="110" height="110" style="border-radius: 50%; border: 2px solid #ff79c6;" />
       <H3 style="color: #f8f8f2; margin: 8px 0;">Jackksonns</H3>
         <p>
         <p>
           <a href="mailto:your_email@example.com">
-            <img src="https://img.shields.io/badge/Email-your_email%40example.com-blue?style=flat-square&logo=gmail"/>
+            <img src="https://img.shields.io/badge/Email-2963087383%40qq.com-blue?style=flat-square&logo=gmail"/>
           </a>
         </p>
         <p>
-          <img src="https://img.shields.io/badge/Birthday-2004--12--09-ff69b4?style=flat-square&logo=birthday"/>
-          <img src="https://img.shields.io/badge/Location-YourCity-success?style=flat-square&logo=google-maps"/>
-          <img src="https://img.shields.io/badge/WeChat-your_wechat_id-brightgreen?style=flat-square&logo=wechat" />
+          <img src="https://img.shields.io/badge/Birthday-2005--06--24-ff69b4?style=flat-square&logo=birthday"/>
+          <img src="https://img.shields.io/badge/Location-Guangzhou-success?style=flat-square&logo=google-maps"/>
+          <img src="https://img.shields.io/badge/WeChat-fighter2333effort666-brightgreen?style=flat-square&logo=wechat" />
         </p>
       </td>
       <td width="50%" align="center" style="background-color: #282a36; border-radius: 15px;">
