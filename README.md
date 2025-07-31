@@ -5,7 +5,8 @@
     <tr>
       <td align="center" width="50%" style="background-color: #282a36; border-radius: 15px;">
       <p>
-        <img src="https://avatars.githubusercontent.com/u/134331238?v=4" width="110" height="110" style="border-radius: 50%; border: 2px solid #ff79c6;" />
+        <img src="https://avatars.githubusercontent.com/u/181991025?v=4" width="110" height="110" style="border-radius: 50%; border: 2px solid #ff79c6;" />
+
       <H3 style="color: #f8f8f2; margin: 8px 0;">Jackksonns</H3>
         <p>
         <p>
