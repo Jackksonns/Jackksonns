@@ -89,19 +89,16 @@
 
 ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
 
-<p align="center" >
+<p align="center">
   <samp>
-    My name is <em>Dahezhiquan</em>. I am a Fullstack 'n' mobile developer... 
-  <br/> Javascript enthusiast... ReactJs lover. React Native addict. 
-    <br/> (<em>ex</em>)Fulltime student.
-      <br/>
-Creating games for fun, composing songs,
-          <br/>
-continuously learning, wanting to help the community
+    My name is <em>Your Name</em>. I am a passionate researcher diving into the worlds of Computer Vision and Finance...<br/>
+    Dual-degree scholar in Information Management & Information Systems at South China Normal University and the University of Aberdeen.<br/>
+    Data cruncher... Algorithm enthusiast... Probably overthinking how to optimize my coffee intake.<br/>
+    (<em>current</em>) Full-time student, part-time dreamer.<br/>
+    <br/>
+    Building models for fun, analyzing markets,<br/>
+    continuously learning, aiming to make a dent in the universe (or at least in my to-do list).<br/>
   </samp>
-  <br/>
-  <br/>
-  <br/>
 </p>
 
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%" alt=""/>
