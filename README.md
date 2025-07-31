@@ -1,80 +1,10 @@
 
 
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
-
-<div style="max-width: 400px; margin: 20px auto; background-color: #282a36; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); padding: 20px; color: #f8f8f2; font-family: Arial, sans-serif;">
-
-  <div style="text-align: center; margin-bottom: 20px;">
-    <img src="https://avatars.githubusercontent.com/u/181991025?v=4" alt="Avatar" 
-         style="width: 110px; height: 110px; border-radius: 50%; border: 2px solid #ff79c6;" />
-    <h3 style="margin: 12px 0 8px 0;">Jackksonns</h3>
-    <p style="line-height: 1.4; margin: 0;">
-      Dual Degree Student<br>
-      Information Management & Information Systems<br>
-      South China Normal University 🇨🇳<br>
-      University of Aberdeen 🇬🇧
-    </p>
-  </div>
-
-  <div style="text-align: center; margin-bottom: 20px;">
-    <a href="mailto:2963087383@qq.com" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/Email-2963087383%40qq.com-blue?style=flat-square&logo=gmail" alt="Email" />
-    </a>
-  </div>
-
-  <div style="text-align: center; margin-bottom: 20px;">
-    <img src="https://img.shields.io/badge/Birthday-2005--06--24-ff69b4?style=flat-square&logo=birthday" alt="Birthday" />
-    <img src="https://img.shields.io/badge/Location-Guangzhou-success?style=flat-square&logo=google-maps" alt="Location" />
-    <img src="https://img.shields.io/badge/WeChat-fighter2333effort666-brightgreen?style=flat-square&logo=wechat" alt="WeChat" />
-  </div>
-
-  <div style="max-width: 350px; margin: 0 auto; text-align: center;">
-    <h4 style="margin-bottom: 10px;">🔬 Research Interests</h4>
-    <p style="line-height: 1.5; margin: 0;">
-      - Computer Vision (CV)<br>
-      - Quantitative Finance & Investment Modeling<br>
-      - AIGC, LLM Fine-tuning, Deep Learning
-    </p>
-  </div>
-
-</div>
-
-
-
----
-
-<div align="center">
-  <h3>🚀 Featured Projects</h3>
-  <p>
-    <a href="https://github.com/Jackksonns/Transformer-from-scratch">
-      <img src="https://img.shields.io/badge/🧠 Transformer_from_Scratch-orange?style=for-the-badge" />
-    </a>
-    <a href="https://github.com/Jackksonns/AIGC-Paper-Survey">
-      <img src="https://img.shields.io/badge/📄 AIGC_Paper_Survey-blueviolet?style=for-the-badge" />
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/📈 Vision+Finance_Modeling-grey?style=for-the-badge" />
-    </a>
-  </p>
-</div>
-
-
----
-
-<div align="center">
-  <h3>📚 Blog & Writing</h3>
-  <a href="https://blog.csdn.net/2302_80218188?spm=1000.2115.3001.5343">
-    <img src="https://img.shields.io/badge/📝_My_CSDN_Blog-ff69b4?style=for-the-badge" alt="CSDN Blog" />
-  </a>
-</div>
-
-
-
 ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
 
 <p align="center" >
   <samp>
-    My name is <em>Dahezhiquan</em>. I am a Fullstack 'n' mobile developer... 
+    My name is <em>Jackson KK</em>. I am a Fullstack 'n' mobile developer... 
   <br/> Javascript enthusiast... ReactJs lover. React Native addict. 
     <br/> (<em>ex</em>)Fulltime student.
       <br/>
@@ -148,8 +78,6 @@ continuously learning, wanting to help the community
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top; margin:6px 4px" alt=""/>
 
 </p>
-
-
 
 
 
