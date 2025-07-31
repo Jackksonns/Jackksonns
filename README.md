@@ -1,49 +1,67 @@
-### Welcome(欢迎访问)! 👋
+### Welcome to My GitHub Profile! 👋
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="10" style="border-radius: 15px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <tr>
-      <td align="center" width="50%" style="background-color: #282a36; border-radius: 15px;">
-      <p>
-        <img src="https://avatars.githubusercontent.com/u/181991025?v=4" width="110" height="110" style="border-radius: 50%; border: 2px solid #ff79c6;" />
-      <H3 style="color: #f8f8f2; margin: 8px 0;">Jackksonns</H3>
-        <p>
-        <p>
-          <a href="mailto:your_email@example.com">
-            <img src="https://img.shields.io/badge/Email-2963087383%40qq.com-blue?style=flat-square&logo=gmail"/>
-          </a>
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Birthday-2005--06--24-ff69b4?style=flat-square&logo=birthday"/>
-          <img src="https://img.shields.io/badge/Location-Guangzhou-success?style=flat-square&logo=google-maps"/>
-          <img src="https://img.shields.io/badge/WeChat-fighter2333effort666-brightgreen?style=flat-square&logo=wechat" />
-        </p>
-      </td>
-      <td width="50%" align="center" style="background-color: #282a36; border-radius: 15px;">
-        <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Jackksonns&show_icons=true&theme=dracula&border_radius=15&hide_border=true" width="350"></a>
-        <br><br>
-        <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackksonns&size_weight=0.15&count_weight=0.85&exclude_repo=Recommender-System-Evaluation,Math_Modeling_Archive&border_radius=1&theme=dracula&layout=compact&hide=scss,less,ASP.NET,pug,Batchfile,css,html&hide_border=true&langs_count=10" width="250"></a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://avatars.githubusercontent.com/u/181991025?v=4" width="110" height="110" style="border-radius: 50%; border: 2px solid #ff79c6;" />
+  <h3 style="color: #f8f8f2; margin: 8px 0;">Jackksonns</h3>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jackksonns&theme=dracula&hide_border=true&bg_color=282a36&line=8a2be2&point=9370db" alt="Jackksonns's github activity graph" width="98%" />
-</div>
+---
 
-<div align="center" style="margin-top: 15px;">
-  <a href="https://blog.csdn.net/2302_80218188?spm=1000.2115.3001.5343" style="text-decoration: none; display: inline-block; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/📝_我的博客-ff69b4?style=for-the-badge" alt="Blog" />
-  </a>
-  <a href="#" style="text-decoration: none; display: inline-block; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/📁_我的Alist-brightgreen?style=for-the-badge" alt="Alist" />
-  </a>
-  <a href="https://github.com/Jackksonns/Jackksonns" style="text-decoration: none; display: inline-block; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/👨‍💻_查看源码-blue?style=for-the-badge" alt="Source" />
-  </a>
-</div>
+🎓 **Dual Degree Student**  
+Information Management & Information Systems  
+📍 South China Normal University & University of Aberdeen (UK)
 
-<div align="center" style="margin-top: 15px;">
-  <img src="https://count.getloli.com/@Jackksonns-profile?theme=rule34&padding=8&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="访问计数" />
+🔬 **Research Interests**  
+- Computer Vision (CV)  
+- Financial Modeling & Smart Investment  
+- Deep Learning, AIGC, and LLM Fine-tuning
+
+🧠 I’m passionate about building intelligent systems that bridge **AI and Finance**, and I actively explore both academic research and real-world applications.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,linux,git,github,vscode,jupyter,html,css" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- 🧠 [Transformer from Scratch](https://github.com/Jackksonns/Transformer-from-scratch):  
+  A minimal PyTorch implementation of the Transformer model.
+
+- 📊 [AIGC Paper Survey](https://github.com/Jackksonns/AIGC-Paper-Survey):  
+  A comprehensive review of key advances in AIGC and generative models.
+
+- 📈 [Vision & Investment Models](#):  
+  Ongoing work combining computer vision with quantitative finance.
+
+---
+
+### 📚 Blog & Writing
+
+I also share my thoughts and tutorials on CSDN (in Chinese):  
+👉 [https://blog.csdn.net/2302_80218188](https://blog.csdn.net/2302_80218188)
+
+---
+
+### 📬 Contact
+
+<a href="mailto:2963087383@qq.com">
+  <img src="https://img.shields.io/badge/Email-2963087383@qq.com-blue?style=flat-square&logo=gmail" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/WeChat-fighter2333effort666-brightgreen?style=flat-square&logo=wechat" />
+</a>
+<a href="https://github.com/Jackksonns" style="margin-left: 10px;">
+  <img src="https://img.shields.io/badge/View_Code_on_GitHub-181717?style=flat-square&logo=github" />
+</a>
+
+---
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://count.getloli.com/@Jackksonns-profile?theme=rule34&padding=8&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Visitor Count" />
 </div>
