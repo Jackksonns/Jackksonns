@@ -1,6 +1,3 @@
-
-
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="10" style="border-radius: 15px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <tr>
@@ -21,10 +18,45 @@
           </a>
         </p>
         <p>
-          <img src="https://img.shields.io/badge/Birthday-2005--06--24-ff69b4?style=flat-square&logo=birthday"/>
           <img src="https://img.shields.io/badge/Location-Guangzhou-success?style=flat-square&logo=google-maps"/>
-          <img src="https://img.shields.io/badge/WeChat-fighter2333effort666-brightgreen?style=flat-square&logo=wechat" />
         </p>
+
+
+---
+
+<div align="center">
+  <h3>🚀 Featured Projects</h3>
+  <p>
+    <a href="https://github.com/Jackksonns/Transformer-from-scratch">
+      <img src="https://img.shields.io/badge/🧠 Transformer_from_Scratch-orange?style=for-the-badge" />
+    </a>
+    <a href="https://github.com/Jackksonns/AIGC-Paper-Survey">
+      <img src="https://img.shields.io/badge/📄 AIGC_Paper_Survey-blueviolet?style=for-the-badge" />
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/📈 Vision+Finance_Modeling-grey?style=for-the-badge" />
+    </a>
+  </p>
+</div>
+
+
+---
+
+<div align="center">
+  <h3>📚 Blog & Writing</h3>
+  <a href="https://blog.csdn.net/2302_80218188?spm=1000.2115.3001.5343">
+    <img src="https://img.shields.io/badge/📝_My_CSDN_Blog-ff69b4?style=for-the-badge" alt="CSDN Blog" />
+  </a>
+</div>
+
+
+
+
+
+
+
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" />That’s the polished version of me, but here’s the fun side…
+
 <p align="center" >
   <samp>
     My name is <em>Jackson KK</em>. I am a Fullstack 'n' mobile developer... 
@@ -44,7 +76,7 @@ continuously learning, wanting to help the community
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
 
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/3243_take_my_money.png" height="40px"  alt=""/>  a finnance mobile app
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/3243_take_my_money.png" height="40px"  alt=""/>  Blind Image Restoration(BIR), SwinIR, DiffBIR-learning-explanation
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px"  alt=""/>  games developed with some friends
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
@@ -52,7 +84,7 @@ continuously learning, wanting to help the community
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gesture.jpeg" width="30px"  alt=""/> Complex animations and Gesture Handling on React-Native
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/unity.png" height="30px"  alt=""/> Unity 'n' Game Design
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/functional.png" height="30px"  alt=""/> Functional Programming
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/ml.png" height="35px"  alt=""/> ML
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/ml.png" height="35px"  alt=""/> Deep Learning
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> I’m looking to collaborate on ...
 
@@ -65,26 +97,6 @@ continuously learning, wanting to help the community
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/question.png" width="50px" />  Ask me about ...
 
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px"  alt=""/> anything, I am really a talkative person, happy to help 
-
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
-
-<p align="center">
-  <a href="https://twitter.com/naiman_alex">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="35px" style="margin: 5px;"  alt=""/>
-  </a>
-  <a href="https://www.instagram.com/alex.naiman.4/">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin: 5px;"  alt=""/>
-  </a>
-  <a href="https://www.linkedin.com/in/alexandru-nicolae-naiman-28b60a137/">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;"  alt=""/>
-  </a>
-  <a href="https://discord.gg/KgF4WGf">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/discord.png" height="35px" style="margin: 5px;"  alt=""/>
-  </a>
-  <a href="mailto:alex.naiman.4@gmail.com">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;"  alt=""/>
-  </a>
-</p>
 
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
@@ -101,6 +113,14 @@ continuously learning, wanting to help the community
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top; margin:6px 4px" alt=""/>
 
 </p>
+
+
+
+
+
+
+
+
 
 
 
