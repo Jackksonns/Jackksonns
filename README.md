@@ -35,13 +35,13 @@
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="25px" style="vertical-align:top; margin:6px 4px" alt=""/>
-  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="30px" style="vertical-align:top; margin:6px 4px"  alt=""/>
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/bash.svg" height="30px" style="vertical-align:top; margin:6px 4px"  alt=""/>
-      <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg" height="30px" style="vertical-align:top; margin:6px 4px"  alt=""/>
-        <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="35px" style="vertical-align:top; margin:6px 4px"  alt=""/>
-          <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top; margin:6px 4px"  alt=""/>
-           <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/mobile.svg" height="35px" style="vertical-align:top; margin:6px 4px"  alt=""/>
-            <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/nodejs.svg" height="35px" style="vertical-align:top; margin:6px 4px"  alt=""/>
+  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="25px" style="vertical-align:top; margin:6px 4px"  alt=""/>
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/bash.svg" height="25px" style="vertical-align:top; margin:6px 4px"  alt=""/>
+      <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg" height="25px" style="vertical-align:top; margin:6px 4px"  alt=""/>
+        <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="25px" style="vertical-align:top; margin:6px 4px"  alt=""/>
+          <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="25px" style="vertical-align:top; margin:6px 4px"  alt=""/>
+           <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/mobile.svg" height="25px" style="vertical-align:top; margin:6px 4px"  alt=""/>
+            <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/nodejs.svg" height="25px" style="vertical-align:top; margin:6px 4px"  alt=""/>
              
              
 
