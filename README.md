@@ -20,9 +20,7 @@
           </a>
         </p>
         <p>
-          
           <img src="https://img.shields.io/badge/Location-Guangzhou-success?style=flat-square&logo=google-maps"/>
-        
         </p>
       </td>
       <td align="center" width="50%" style="background-color: #282a36; border-radius: 15px;">
