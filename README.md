@@ -31,7 +31,7 @@
           - AIGC, LLM Fine-tuning, Deep Learning
         </p>
         <br>
-        <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
+        <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="20px" /> Tools and Frameworks
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="25px" style="vertical-align:top; margin:6px 4px" alt=""/>
