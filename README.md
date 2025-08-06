@@ -63,7 +63,7 @@
       <img src="https://img.shields.io/badge/📄 OptiTrainer-blueviolet?style=for-the-badge" />
     </a>
     <a href="https://github.com/Jackksonns/financial-news-topic-modeling">
-      <img src="https://img.shields.io/badge/📈 financial-news-topic-modeling-grey?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/📈 financial news topic modeling-grey?style=for-the-badge" />
     </a>
   </p>
 </div>
