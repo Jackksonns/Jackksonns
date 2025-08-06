@@ -59,8 +59,8 @@
     <a href="https://github.com/Jackksonns/Transformer-from-scratch">
       <img src="https://img.shields.io/badge/🧠 Transformer_from_Scratch-orange?style=for-the-badge" />
     </a>
-    <a href="https://github.com/Jackksonns/AIGC-Paper-Survey">
-      <img src="https://img.shields.io/badge/📄 Agent-blueviolet?style=for-the-badge" />
+    <a href="https://github.com/Jackksonns/OptiTrainer">
+      <img src="https://img.shields.io/badge/📄 OptiTrainer-blueviolet?style=for-the-badge" />
     </a>
     <a href="#">
       <img src="https://img.shields.io/badge/📈 Vision+Finance_Modeling-grey?style=for-the-badge" />
