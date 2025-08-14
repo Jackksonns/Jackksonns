@@ -56,8 +56,8 @@
 <div align="center">
   <h3>🚀 Featured Projects</h3>
   <p>
-    <a href="https://github.com/Jackksonns/Transformer-from-scratch">
-      <img src="https://img.shields.io/badge/🧠 Transformer_from_Scratch-orange?style=for-the-badge" />
+    <a href="https://github.com/Jackksonns/pytorch-deep-learning-notes">
+      <img src="https://img.shields.io/badge/🧠 Pytorch Deep learning Notes-orange?style=for-the-badge" />
     </a>
     <a href="https://github.com/Jackksonns/OptiTrainer">
       <img src="https://img.shields.io/badge/📄 OptiTrainer-blueviolet?style=for-the-badge" />
