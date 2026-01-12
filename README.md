@@ -27,8 +27,7 @@
         <h4 style="color: #f8f8f2;">🔬 Research Interests</h4>
         <p style="color: #f8f8f2; max-width: 350px;">
           - Computer Vision (CV)<br>
-          - Quantitative Finance & Investment Modeling(still learning...)<br>
-          - AIGC, LLM Fine-tuning, Deep Learning
+          - Operations Research<br>
         </p>
         <br>
         <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="20px" /> Tools and Frameworks
