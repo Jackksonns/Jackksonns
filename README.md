@@ -24,10 +24,10 @@
         </p>
       </td>
 <td align="center" width="50%" style="background-color: #282a36">
-  <h4 style="color: #f8f8f2;">🔬 Research Interests</h4>
+  <h4 style="color: #f8f8f2; font-weight: 800;">🔬 Research Interests</h4>
   <p style="color: #f8f8f2; max-width: 350px;">
-    - Computer Vision (CV)<br>
-    - Operations Research<br>
+    <strong>- Computer Vision </strong><br>
+    <strong>- Operations Research </strong><br>
   </p>
 
   <br>
