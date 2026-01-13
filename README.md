@@ -24,14 +24,8 @@
         </p>
       </td>
       <td align="center" width="50%" style="background-color: #282a36">
-        <h4 style="color: #f8f8f2; font-size: 1.15em; font-weight: 600;">
-            🔬 Research Interests
-        </h4>
-
-        <p style="color: #f8f8f2; max-width: 350px; font-size: 1.05em; font-weight: 500;">
-        - Computer Vision (CV)<br>
-        - Operations Research<br>
-        </p>
+        <h4 style="color: #f8f8f2;">🔬 Research Interests</h4> 
+        <p style="color: #f8f8f2; max-width: 350px;"> - Computer Vision (CV)<br> - Operations Research<br> </p>
 
         <br>
         <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="20px" /> Tools and Frameworks
