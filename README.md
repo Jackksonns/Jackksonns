@@ -23,28 +23,30 @@
           <img src="https://img.shields.io/badge/Location-Guangzhou-success?style=flat-square&logo=google-maps"/>
         </p>
       </td>
-      <td align="center" width="50%" style="background-color: #282a36">
-        <h4 style="color: #f8f8f2;">🔬 Research Interests</h4> 
-        <p style="color: #f8f8f2; max-width: 350px;"> - Computer Vision (CV)<br> - Operations Research<br> </p>
+<td align="center" width="50%" style="background-color: #282a36">
+  <h4 style="color: #f8f8f2;">🔬 Research Interests</h4>
+  <p style="color: #f8f8f2; max-width: 350px;">
+    - Computer Vision (CV)<br>
+    - Operations Research<br>
+  </p>
 
-        <br>
-        <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="20px" /> Tools and Frameworks
+  <br>
+  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="20" alt=""/> Tools and Frameworks
 
-<p align="center">
-   <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="25px" style="vertical-align:top; margin:6px 4px" alt=""/>
-  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="25px" style="vertical-align:top; margin:6px 4px"  alt=""/>
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/bash.svg" height="25px" style="vertical-align:top; margin:6px 4px"  alt=""/>
-      <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg" height="25px" style="vertical-align:top; margin:6px 4px"  alt=""/>
-        <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="25px" style="vertical-align:top; margin:6px 4px"  alt=""/>
-          <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="25px" style="vertical-align:top; margin:6px 4px"  alt=""/>
-           <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/mobile.svg" height="25px" style="vertical-align:top; margin:6px 4px"  alt=""/>
-            <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/nodejs.svg" height="25px" style="vertical-align:top; margin:6px 4px"  alt=""/>
-             
-             
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="25px" style="vertical-align:top; margin:6px 4px" alt=""/>
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="25px" style="vertical-align:top; margin:6px 4px" alt=""/>
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/bash.svg" height="25px" style="vertical-align:top; margin:6px 4px" alt=""/>
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg" height="25px" style="vertical-align:top; margin:6px 4px" alt=""/>
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="25px" style="vertical-align:top; margin:6px 4px" alt=""/>
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="25px" style="vertical-align:top; margin:6px 4px" alt=""/>
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/mobile.svg" height="25px" style="vertical-align:top; margin:6px 4px" alt=""/>
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/nodejs.svg" height="25px" style="vertical-align:top; margin:6px 4px" alt=""/>
+  </p>
+</td>
+</tr>
+</table>
 
-</p>
-
-  </table>
 </div>
 
 
