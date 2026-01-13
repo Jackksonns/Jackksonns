@@ -72,7 +72,7 @@
 
 <div align="center">
   <h3>📚 Blog & Writing</h3>
-  <a href="">
+  <a href="https://blog.csdn.net/2302_80218188?spm=1000.2115.3001.5343">
     <img src="https://img.shields.io/badge/📝_My_Blog_in_the_future-ff69b4?style=for-the-badge" alt="CSDN Blog" />
   </a>
 </div>
