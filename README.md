@@ -23,7 +23,7 @@
           <img src="https://img.shields.io/badge/Location-Guangzhou-success?style=flat-square&logo=google-maps"/>
         </p>
       </td>
-      <td align="center" width="50%" style="background-color: #282a36; border-radius: 15px;">
+      <td align="center" width="50%" style="background-color: #282a36">
         <h4 style="color: #f8f8f2; font-size: 1.15em; font-weight: 600;">
             🔬 Research Interests
         </h4>
