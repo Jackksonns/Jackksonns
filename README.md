@@ -26,8 +26,10 @@
 <td align="center" width="50%" style="background-color: #282a36">
   <h4 style="color: #f8f8f2; font-weight: 800;">🔬 Research Interests</h4>
   <p style="color: #f8f8f2; max-width: 350px;">
-    <strong>- Computer Vision </strong><br>
-    <strong>- Operations Research </strong><br>
+    <strong>- Computer Vision (CV) </strong><br>
+    <strong>- Operations Research (OR) </strong><br>
+    <strong>- Large Language Models (LLMs) </strong><br>
+    <strong>- Agents </strong><br>
   </p>
 
   <br>
