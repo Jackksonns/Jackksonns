@@ -15,7 +15,7 @@
           University of Aberdeen 🇬🇧
         </p>
         <p>
-          <a href="mailto:2963087383@qq.com">
+          <a href="mailto:{h.zhou.23@abdn.ac.uk">
             <img src="https://img.shields.io/badge/Email-2963087383%40qq.com-blue?style=flat-square&logo=gmail"/>
           </a>
         </p>
