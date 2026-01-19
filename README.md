@@ -7,7 +7,7 @@
         <p>
           <img src="https://avatars.githubusercontent.com/u/181991025?v=4" width="110" height="110" style="border-radius: 50%; border: 2px solid #ff79c6;" />
         </p>
-        <h3 style="color: #f8f8f2; margin: 8px 0;">Jackksonns</h3>
+        <h3 style="color: #f8f8f2; margin: 8px 0;">Hongyi Zhou</h3>
         <p style="color: #f8f8f2;">
           Dual Degree Student<br>
           Information Management & Information Systems<br>
