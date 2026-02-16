@@ -92,7 +92,7 @@
 
 <p align="center">
   <samp>
-    My name is <em>Jackson KK</em>. I am a passionate researcher diving into the worlds of Computer Vision and Operations Research...<br/>
+    My name is <em>Hongyi Zhou</em>. I am a passionate researcher diving into the worlds of Computer Vision and Operations Research...<br/>
     Dual-degree scholar in Information Management & Information Systems at South China Normal University and University of Aberdeen.<br/>
     Data cruncher... Algorithm enthusiast... Probably overthinking how to optimize my coffee intake.<br/>
     (<em>current</em>) Full-time student, part-time dreamer.<br/>
