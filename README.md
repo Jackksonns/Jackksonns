@@ -1,63 +1,128 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020617,45:1E3A8A,100:06B6D4&text=HONGYI%20ZHOU&fontColor=E0F2FE&fontSize=58&fontAlignY=38&desc=Computer%20Vision%20%C2%B7%20Operations%20Research%20%C2%B7%20LLM%20Agents&descSize=18&descAlignY=62&stroke=67E8F9&strokeWidth=1&animation=twinkling" alt="Hongyi Zhou futuristic profile banner" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=760&lines=restore(image)+%E2%86%92+optimize(decision)+%E2%86%92+reason(with+evidence);visual+intelligence+%2F+decision+models+%2F+research+automation;building+clearer+notes+and+small+research+systems" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="mailto:h.zhou.23@abdn.ac.uk"><img src="https://img.shields.io/badge/contact-h.zhou.23%40abdn.ac.uk-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://blog.csdn.net/2302_80218188?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/writing-CSDN-0891B2?style=for-the-badge&logo=blogger&logoColor=white" alt="CSDN" /></a>
-  <img src="https://img.shields.io/badge/base-Guangzhou-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Guangzhou" />
-</p>
+### Hello World! 👋
 
 <div align="center">
-  <b>Dual-degree Information Management & Information Systems student</b><br />
-  <sub>South China Normal University × University of Aberdeen</sub>
+  <table border="0" cellspacing="0" cellpadding="10" style="border-radius: 15px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <tr>
+      <td align="center" width="50%" style="background-color: #282a36; border-radius: 15px;">
+        <p>
+          <img src="https://avatars.githubusercontent.com/u/181991025?v=4" width="110" height="110" style="border-radius: 50%; border: 2px solid #ff79c6;" />
+        </p>
+        <h3 style="color: #f8f8f2; margin: 8px 0;">Hongyi Zhou</h3>
+        <p style="color: #f8f8f2;">
+          Dual Degree Student<br>
+          Information Management & Information Systems<br>
+          South China Normal University 🇨🇳<br>
+          University of Aberdeen 🇬🇧
+        </p>
+        <p>
+          <a href="mailto:{h.zhou.23@abdn.ac.uk">
+            <img src="https://img.shields.io/badge/Email-2963087383%40qq.com-blue?style=flat-square&logo=gmail"/>
+          </a>
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Location-Guangzhou-success?style=flat-square&logo=google-maps"/>
+        </p>
+      </td>
+<td align="center" width="50%" style="background-color: #282a36">
+  <h4 style="color: #f8f8f2; font-weight: 800;">🔬 Research Interests</h4>
+  <p style="color: #f8f8f2; max-width: 350px;">
+    <strong>- Computer Vision (CV) </strong><br>
+    <strong>- Operations Research (OR) </strong><br>
+    <strong>- Large Language Models (LLMs) </strong><br>
+    <strong>- Agents </strong><br>
+  </p>
+
+  <br>
+  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="20" alt=""/> Tools and Frameworks
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="25px" style="vertical-align:top; margin:6px 4px" alt=""/>
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="25px" style="vertical-align:top; margin:6px 4px" alt=""/>
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/bash.svg" height="25px" style="vertical-align:top; margin:6px 4px" alt=""/>
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg" height="25px" style="vertical-align:top; margin:6px 4px" alt=""/>
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="25px" style="vertical-align:top; margin:6px 4px" alt=""/>
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="25px" style="vertical-align:top; margin:6px 4px" alt=""/>
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/mobile.svg" height="25px" style="vertical-align:top; margin:6px 4px" alt=""/>
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/nodejs.svg" height="25px" style="vertical-align:top; margin:6px 4px" alt=""/>
+  </p>
+</td>
+</tr>
+</table>
+
 </div>
 
----
-
-## Research Vector
-
-**Visual Intelligence**  
-Blind Image Restoration · Image Enhancement · Visual Representation Learning
-
-**Decision & Optimization**  
-Operations Research · Shapley Values · Cooperative Games · Decision Modeling
-
-**Research Automation**  
-LLM Agents · Knowledge-intensive Workflows · Evidence-based Writing
 
 ---
 
-## Selected Work
+<div align="center">
+  <h3>🚀 Featured Projects</h3>
+  <p>
+    <a href="https://github.com/Jackksonns/pytorch-deep-learning-notes">
+      <img src="https://img.shields.io/badge/🧠 Pytorch Deep learning Notes-orange?style=for-the-badge" />
+    </a>
+    <a href="https://github.com/Jackksonns/OptiTrainer">
+      <img src="https://img.shields.io/badge/📄 OptiTrainer-blueviolet?style=for-the-badge" />
+    </a>
+    <a href="https://github.com/Jackksonns/financial-news-topic-modeling">
+      <img src="https://img.shields.io/badge/📈 Finance Topic Explorer-grey?style=for-the-badge" />
+    </a>
+  </p>
+</div>
 
-**[PyTorch Deep Learning Notes](https://github.com/Jackksonns/pytorch-deep-learning-notes)**  
-Deep learning notes and implementation records from basic blocks to reproducible code.
-
-**[OptiTrainer](https://github.com/Jackksonns/OptiTrainer)**  
-Optimization-oriented modeling around training and analytical workflows.
-
-**[Financial News Topic Modeling](https://github.com/Jackksonns/financial-news-topic-modeling)**  
-Financial text mining, topic exploration, and readable data analysis.
 
 ---
 
-## Tech Stack
+<div align="center">
+  <h3>📚 Blog & Writing</h3>
+  <a href="https://blog.csdn.net/2302_80218188?spm=1000.2115.3001.5343">
+    <img src="https://img.shields.io/badge/📝_My_CSDN_Blog-ff69b4?style=for-the-badge" alt="CSDN Blog" />
+  </a>
+</div>
+
+
+---
+
+
+
+
+
+
+
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> That’s the polished version of me, but here’s the fun side…
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=67E8F9" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-0F172A?style=flat-square&logo=pytorch&logoColor=F97316" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenCV-0F172A?style=flat-square&logo=opencv&logoColor=22C55E" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/NumPy-0F172A?style=flat-square&logo=numpy&logoColor=67E8F9" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-0F172A?style=flat-square&logo=pandas&logoColor=A78BFA" alt="Pandas" />
-  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=FACC15" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F97316" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-0F172A?style=flat-square&logo=visualstudiocode&logoColor=38BDF8" alt="VS Code" />
+  <samp>
+    My name is <em>Hongyi Zhou</em>. I am a passionate researcher diving into the worlds of Computer Vision and Operations Research...<br/>
+    Dual-degree scholar in Information Management & Information Systems at South China Normal University and University of Aberdeen.<br/>
+    Data cruncher... Algorithm enthusiast... Probably overthinking how to optimize my coffee intake.<br/>
+    (<em>current</em>) Full-time student, part-time dreamer.<br/>
+    <br/>
+    Building models for fun, analyzing markets,<br/>
+    continuously learning, aiming to make a dent in the universe (or at least in my to-do list).<br/>
+  </samp>
 </p>
 
-<p align="center">
-  <i>building useful models, readable notes, and small systems that survive the next preview</i>
-</p>
+<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%" alt=""/>
+
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
+
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/3243_take_my_money.png" height="40px"  alt=""/>  Blind Image Restoration(BIR),... SwinIR and DiffBIR-learning
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px"  alt=""/>  Explore interesting Game Theories, Shapley values, Cooperative Interval Games...
+
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
+
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/ml.png" height="35px"  alt=""/> Deep Learning
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/functional.png" height="30px"  alt=""/> Data Analysis..
+
+
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> I’m looking to collaborate on ...
+
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/open_source.png" height="30px"  alt=""/> any open source project, especially the interesting one
+
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> I’m looking for help with ...
+
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px"  alt=""/> any weird or interesting idea!
+
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/question.png" width="50px" />  Ask me about ...
+
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px"  alt=""/> anything, I am really a talkative person, happy to help and do something funny
