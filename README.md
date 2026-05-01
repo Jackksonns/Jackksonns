@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Hongyi Zhou profile banner" />
+  <img src="./assets/profile-hero.png" alt="Hongyi Zhou profile hero" />
 </p>
 
 <p align="center">
@@ -8,42 +8,22 @@
   <img src="https://img.shields.io/badge/base-Guangzhou-10B981?style=flat-square&logo=googlemaps&logoColor=white" alt="Guangzhou" />
 </p>
 
-<p align="center">
-  <b>Dual-degree IMIS student</b><br />
-  South China Normal University × University of Aberdeen
-</p>
-
 ---
 
-I work around the intersection of **visual intelligence**, **optimization**, and **research automation**.  
-My current interests include **Blind Image Restoration**, **SwinIR / DiffBIR-style pipelines**, **cooperative games**, and **LLM-assisted research workflows**.
+I am a dual-degree **Information Management & Information Systems** student at **South China Normal University** and the **University of Aberdeen**.
 
-### Focus
-
-**Computer Vision** — blind image restoration, image enhancement, visual representation learning  
-**Operations Research** — optimization, Shapley values, cooperative games, decision modeling  
-**LLMs & Agents** — research workflows, knowledge-intensive tasks, reasoning support  
-**Data Analysis** — financial text, topic modeling, evidence-based writing
+My work sits between **visual intelligence**, **optimization**, and **research automation**. I am currently exploring **Blind Image Restoration**, **SwinIR / DiffBIR-style pipelines**, **cooperative games**, and **LLM-assisted research workflows**.
 
 ### Selected work
 
-[**PyTorch Deep Learning Notes**](https://github.com/Jackksonns/pytorch-deep-learning-notes)  
-Learning notes and implementation records for deep learning foundations.
-
-[**OptiTrainer**](https://github.com/Jackksonns/OptiTrainer)  
-An optimization-oriented modeling project around training and analytical workflows.
-
-[**Financial News Topic Modeling**](https://github.com/Jackksonns/financial-news-topic-modeling)  
-Exploring topics and patterns in financial news through text mining.
+- [**PyTorch Deep Learning Notes**](https://github.com/Jackksonns/pytorch-deep-learning-notes) — learning notes and implementation records for deep learning foundations.
+- [**OptiTrainer**](https://github.com/Jackksonns/OptiTrainer) — optimization-oriented modeling around training and analytical workflows.
+- [**Financial News Topic Modeling**](https://github.com/Jackksonns/financial-news-topic-modeling) — financial text mining and topic exploration.
 
 ### Stack
 
 `Python` · `PyTorch` · `OpenCV` · `NumPy` · `Pandas` · `JavaScript` · `HTML` · `CSS` · `Node.js` · `Git`
 
-### Now
-
-Reading **Blind Image Restoration** papers, thinking about **cooperative decision models**, and building clearer notes for small research experiments.
-
 <p align="center">
-  <i>building useful models, readable notes, and small systems that survive the next README preview</i>
+  <i>restore(image) · optimize(decision) · reason(with evidence)</i>
 </p>
