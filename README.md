@@ -1,84 +1,108 @@
 <div align="center">
-  <!-- 动态打字机特效作为大标题 -->
-  <a href="https://github.com/HongyiZhou">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Hongyi+Zhou+👋;CV+%26+OR+Researcher+🧠;Dual-Degree+Student+🎓;Building+Models,+Analyzing+Markets+📈" alt="Typing SVG" />
-  </a>
 
-  <!-- 个人标签/徽章 -->
-  <p align="center">
-    <a href="mailto:h.zhou.23@abdn.ac.uk">
-      <img src="https://img.shields.io/badge/Email-h.zhou.23@abdn.ac.uk-blue?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://blog.csdn.net/2302_80218188?spm=1000.2115.3001.5343">
-      <img src="https://img.shields.io/badge/Blog-My_CSDN-ff69b4?style=for-the-badge&logo=rss&logoColor=white" alt="CSDN" />
-    </a>
-    <img src="https://img.shields.io/badge/Location-Guangzhou_&_Aberdeen-success?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-  </p>
-  
-  <!-- 访客计数器 -->
-  <img src="https://profile-counter.glitch.me/HongyiZhou/count.svg" alt="Profile Views" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=6E56CF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Hongyi+Zhou+%F0%9F%91%8B;Information+Management+%7C+Computer+Vision+%7C+OR;Building+models%2C+notes%2C+and+small+useful+systems" alt="Typing introduction" />
+
+<br />
+
+<a href="mailto:h.zhou.23@abdn.ac.uk">
+  <img src="https://img.shields.io/badge/Email-h.zhou.23%40abdn.ac.uk-6E56CF?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://blog.csdn.net/2302_80218188?spm=1000.2115.3001.5343">
+  <img src="https://img.shields.io/badge/CSDN-Blog-F97316?style=flat-square&logo=blogger&logoColor=white" alt="CSDN Blog" />
+</a>
+<img src="https://img.shields.io/badge/Guangzhou-China-22C55E?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+
 </div>
-
-<br>
-
-### 🔬 About Me
-
-I am a passionate researcher and a dual-degree scholar in **Information Management & Information Systems** at *South China Normal University 🇨🇳* and *University of Aberdeen 🇬🇧*. <br>
-I am a data cruncher, algorithm enthusiast, and currently a full-time student & part-time dreamer. Aiming to make a dent in the universe (or at least in my to-do list).
-
-*   🔭 **Focus Areas:** Computer Vision (CV), Operations Research (OR), Large Language Models (LLMs), Agents.
-*   🌱 **Currently working on:** Blind Image Restoration (BIR), SwinIR, DiffBIR-learning.
-*   🧩 **Currently exploring:** Game Theories, Shapley values, Cooperative Interval Games.
-*   👯 **Open to collaborate on:** Any open-source project, especially the interesting and weird ones!
-*   💬 **Ask me about:** Anything! I am a talkative person, happy to help and do something funny.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+<img align="right" src="https://avatars.githubusercontent.com/u/181991025?v=4" width="165" alt="Hongyi Zhou's GitHub avatar" />
 
-<!-- 使用统一的技能图标库，支持随系统自动切换亮暗主题 -->
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,bash,html,css,js,nodejs,vscode,git&perline=9" alt="Tech Stack" />
-  </a>
-</div>
+### About me
 
-<br>
+I am **Hongyi Zhou**, a dual-degree student in **Information Management & Information Systems** at **South China Normal University** and the **University of Aberdeen**.
 
----
+My work sits between **data, models, and decision-making**: I enjoy studying how algorithms perceive visual information, how optimization supports better decisions, and how intelligent agents can become useful research and learning tools.
 
-### 🚀 Featured Projects
+```python
+hongyi = {
+    "role": "Dual-degree IMIS student",
+    "home": "Guangzhou, China",
+    "research_focus": ["Computer Vision", "Operations Research", "LLMs", "Agents"],
+    "current_work": ["Blind Image Restoration", "SwinIR / DiffBIR learning", "Game theory"],
+    "working_style": "learn deeply, build practically, write clearly"
+}
+```
 
-<div align="center">
-  <!-- 使用统一样式的项目徽章链接 -->
-  <a href="https://github.com/Jackksonns/pytorch-deep-learning-notes">
-    <img src="https://img.shields.io/badge/🧠_Pytorch_Deep_Learning_Notes-F97316?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Notes" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Jackksonns/OptiTrainer">
-    <img src="https://img.shields.io/badge/📄_OptiTrainer-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="OptiTrainer" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Jackksonns/financial-news-topic-modeling">
-    <img src="https://img.shields.io/badge/📈_Finance_Topic_Explorer-4B5563?style=for-the-badge&logo=python&logoColor=white" alt="Finance Topic" />
-  </a>
-</div>
-
-<br>
+<br clear="right" />
 
 ---
 
-### 📊 GitHub Stats
+### Research interests
 
-<!-- 动态状态卡片，能展示你的Star数、Commit数和语言比例，极具极客感 -->
+| Area | What I am exploring |
+|---|---|
+| **Computer Vision** | Image restoration, visual representation learning, deep learning pipelines |
+| **Operations Research** | Optimization, decision modeling, cooperative games, Shapley values |
+| **Large Language Models** | LLM-based research workflows, agents, knowledge-intensive applications |
+| **Data Analysis** | Financial text mining, topic modeling, structured analytical writing |
+
+---
+
+### Featured projects
+
+| Project | Focus | Keywords |
+|---|---|---|
+| [**PyTorch Deep Learning Notes**](https://github.com/Jackksonns/pytorch-deep-learning-notes) | Learning notes and implementations for deep learning | PyTorch · CNN · DL basics |
+| [**OptiTrainer**](https://github.com/Jackksonns/OptiTrainer) | Optimization-oriented training / modeling exploration | OR · training · modeling |
+| [**Financial News Topic Modeling**](https://github.com/Jackksonns/financial-news-topic-modeling) | Exploring topics and patterns in financial news text | NLP · topic modeling · finance |
+
+---
+
+### Tools and stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+</p>
+
+---
+
+### Currently
+
+- Learning **Blind Image Restoration**, especially ideas around **SwinIR** and **DiffBIR**.
+- Exploring **game theory**, **Shapley values**, and **cooperative interval games**.
+- Building a stronger foundation in **deep learning**, **data analysis**, and **research writing**.
+- Always open to strange, useful, or slightly over-engineered ideas.
+
+---
+
+### GitHub activity
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" width="48%" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jackksonns&show_icons=true&hide_border=true&rank_icon=github&theme=default" alt="Hongyi Zhou's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackksonns&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+
 </div>
 
-<!-- 底部留一点幽默感 -->
+---
+
+### Beyond the polished version
+
+I like projects that combine **technical depth** with a bit of personality. Sometimes that means training models; sometimes it means overthinking how to make a README look less like it was generated by a template.
+
 <div align="center">
-  <br>
-  <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" width="150px" alt="Coding Cat" />
-  <p><i>Probably overthinking how to optimize my coffee intake. ☕</i></p>
+
+**Thanks for visiting. Feel free to explore my projects or reach out if you want to build something interesting.**
+
 </div>
