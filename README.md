@@ -1,108 +1,186 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:6E56CF,50:FF79C6,100:F97316&text=Hongyi%20Zhou&fontColor=FFFFFF&fontSize=48&fontAlignY=37&desc=Information%20Management%20%C3%97%20Computer%20Vision%20%C3%97%20Operations%20Research&descSize=16&descAlignY=58" alt="Hongyi Zhou profile banner" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=6E56CF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Hongyi+Zhou+%F0%9F%91%8B;Information+Management+%7C+Computer+Vision+%7C+OR;Building+models%2C+notes%2C+and+small+useful+systems" alt="Typing introduction" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&width=760&lines=Hello+World%2C+I'm+Hongyi+%F0%9F%91%8B;Dual-degree+IMIS+student+%7C+SCNU+%C3%97+Aberdeen;Exploring+CV%2C+OR%2C+LLMs%2C+and+Agents;Trying+to+make+research+useful%2C+readable%2C+and+a+little+fun" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:h.zhou.23@abdn.ac.uk"><img src="https://img.shields.io/badge/Email-h.zhou.23%40abdn.ac.uk-6E56CF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://blog.csdn.net/2302_80218188?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/CSDN-Blog-F97316?style=for-the-badge&logo=blogger&logoColor=white" alt="CSDN Blog" /></a>
+  <img src="https://img.shields.io/badge/Guangzhou-China-22C55E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
 
 <br />
 
-<a href="mailto:h.zhou.23@abdn.ac.uk">
-  <img src="https://img.shields.io/badge/Email-h.zhou.23%40abdn.ac.uk-6E56CF?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://blog.csdn.net/2302_80218188?spm=1000.2115.3001.5343">
-  <img src="https://img.shields.io/badge/CSDN-Blog-F97316?style=flat-square&logo=blogger&logoColor=white" alt="CSDN Blog" />
-</a>
-<img src="https://img.shields.io/badge/Guangzhou-China-22C55E?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+<table>
+  <tr>
+    <td width="62%" valign="top">
 
-</div>
-
----
-
-<img align="right" src="https://avatars.githubusercontent.com/u/181991025?v=4" width="165" alt="Hongyi Zhou's GitHub avatar" />
-
-### About me
+### 👋 About me
 
 I am **Hongyi Zhou**, a dual-degree student in **Information Management & Information Systems** at **South China Normal University** and the **University of Aberdeen**.
 
-My work sits between **data, models, and decision-making**: I enjoy studying how algorithms perceive visual information, how optimization supports better decisions, and how intelligent agents can become useful research and learning tools.
+I like problems that sit between **data, models, and decisions**: making images clearer, making algorithms more useful, and making complex ideas easier to explain.
 
-```python
-hongyi = {
-    "role": "Dual-degree IMIS student",
-    "home": "Guangzhou, China",
-    "research_focus": ["Computer Vision", "Operations Research", "LLMs", "Agents"],
-    "current_work": ["Blind Image Restoration", "SwinIR / DiffBIR learning", "Game theory"],
-    "working_style": "learn deeply, build practically, write clearly"
-}
-```
+- 🎓 **Dual-degree IMIS student** · SCNU 🇨🇳 × University of Aberdeen 🇬🇧  
+- 🔬 **Research interests** · Computer Vision, Operations Research, LLMs, Agents  
+- 🧩 **Current focus** · Blind Image Restoration, SwinIR / DiffBIR, cooperative games  
+- ✍️ **Personal style** · learn deeply, build practically, write clearly
 
-<br clear="right" />
-
----
-
-### Research interests
-
-| Area | What I am exploring |
-|---|---|
-| **Computer Vision** | Image restoration, visual representation learning, deep learning pipelines |
-| **Operations Research** | Optimization, decision modeling, cooperative games, Shapley values |
-| **Large Language Models** | LLM-based research workflows, agents, knowledge-intensive applications |
-| **Data Analysis** | Financial text mining, topic modeling, structured analytical writing |
+</td>
+<td width="38%" align="center" valign="middle">
+  <img src="https://avatars.githubusercontent.com/u/181991025?v=4" width="135" alt="Hongyi Zhou GitHub avatar" />
+  <br /><br />
+  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="150" alt="Pusheen computing" />
+  <br />
+  <sub>student mode: on · coffee optimization pending</sub>
+</td>
+  </tr>
+</table>
 
 ---
 
-### Featured projects
+## 🧭 Research playground
 
-| Project | Focus | Keywords |
-|---|---|---|
-| [**PyTorch Deep Learning Notes**](https://github.com/Jackksonns/pytorch-deep-learning-notes) | Learning notes and implementations for deep learning | PyTorch · CNN · DL basics |
-| [**OptiTrainer**](https://github.com/Jackksonns/OptiTrainer) | Optimization-oriented training / modeling exploration | OR · training · modeling |
-| [**Financial News Topic Modeling**](https://github.com/Jackksonns/financial-news-topic-modeling) | Exploring topics and patterns in financial news text | NLP · topic modeling · finance |
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/ml.png" height="45" alt="ML icon" />
+      <br />
+      <b>Computer Vision</b>
+      <br />
+      <sub>image restoration · visual learning</sub>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/functional.png" height="45" alt="Optimization icon" />
+      <br />
+      <b>Operations Research</b>
+      <br />
+      <sub>optimization · game theory</sub>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="45" alt="Chat icon" />
+      <br />
+      <b>LLMs & Agents</b>
+      <br />
+      <sub>research workflows · reasoning tools</sub>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" height="45" alt="Tools icon" />
+      <br />
+      <b>Data Analysis</b>
+      <br />
+      <sub>finance text · topic modeling</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Tools and stack
+## 🚀 Featured projects
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+<p align="center">
+  <a href="https://github.com/Jackksonns/pytorch-deep-learning-notes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jackksonns&repo=pytorch-deep-learning-notes&theme=transparent&hide_border=true&title_color=6E56CF&text_color=334155&icon_color=F97316" alt="PyTorch Deep Learning Notes" />
+  </a>
+  <a href="https://github.com/Jackksonns/OptiTrainer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jackksonns&repo=OptiTrainer&theme=transparent&hide_border=true&title_color=6E56CF&text_color=334155&icon_color=F97316" alt="OptiTrainer" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Jackksonns/financial-news-topic-modeling">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jackksonns&repo=financial-news-topic-modeling&theme=transparent&hide_border=true&title_color=6E56CF&text_color=334155&icon_color=F97316" alt="Financial News Topic Modeling" />
+  </a>
 </p>
 
 ---
 
-### Currently
+## 🛠️ Tools I use
 
-- Learning **Blind Image Restoration**, especially ideas around **SwinIR** and **DiffBIR**.
-- Exploring **game theory**, **Shapley values**, and **cooperative interval games**.
-- Building a stronger foundation in **deep learning**, **data analysis**, and **research writing**.
-- Always open to strange, useful, or slightly over-engineered ideas.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,numpy,pandas,js,html,css,nodejs,git,bash,vscode&perline=6" alt="Tech stack icons" />
+</p>
 
----
-
-### GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jackksonns&show_icons=true&hide_border=true&rank_icon=github&theme=default" alt="Hongyi Zhou's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackksonns&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Research-Computer%20Vision-6E56CF?style=flat-square" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Research-Operations%20Research-F97316?style=flat-square" alt="Operations Research" />
+  <img src="https://img.shields.io/badge/Interest-LLM%20Agents-FF79C6?style=flat-square" alt="LLM Agents" />
+  <img src="https://img.shields.io/badge/Method-Data%20Analysis-22C55E?style=flat-square" alt="Data Analysis" />
+</p>
 
 ---
 
-### Beyond the polished version
+## 🌱 Currently
 
-I like projects that combine **technical depth** with a bit of personality. Sometimes that means training models; sometimes it means overthinking how to make a README look less like it was generated by a template.
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-<div align="center">
+### Working on
 
-**Thanks for visiting. Feel free to explore my projects or reach out if you want to build something interesting.**
+- 🖼️ **Blind Image Restoration**  
+  Learning ideas from SwinIR and DiffBIR.
 
-</div>
+- 🎮 **Game theory & cooperation**  
+  Exploring Shapley values and cooperative interval games.
+
+</td>
+<td width="50%" valign="top">
+
+### Learning
+
+- 🧠 **Deep learning**  
+  Building a stronger foundation from notes to implementation.
+
+- 📊 **Data analysis**  
+  Connecting models, evidence, and readable explanation.
+
+</td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jackksonns&show_icons=true&hide_border=true&rank_icon=github&title_color=6E56CF&icon_color=F97316&text_color=334155" alt="Hongyi Zhou's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackksonns&layout=compact&hide_border=true&title_color=6E56CF&text_color=334155" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jackksonns&hide_border=true&ring=6E56CF&fire=F97316&currStreakLabel=6E56CF" alt="GitHub streak" />
+</p>
+
+---
+
+<table>
+  <tr>
+    <td width="70%" valign="middle">
+
+## ✨ Fun side
+
+I like projects that combine **technical depth** with a bit of personality.  
+Sometimes that means training models; sometimes it means overthinking whether a README looks too AI-generated.
+
+**Open to:** interesting open-source projects, weird research ideas, and conversations that start with “what if we tried...”
+
+</td>
+<td width="30%" align="center">
+  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="95" alt="Cool duck" />
+  <br />
+  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" width="70" alt="Party parrot" />
+</td>
+  </tr>
+</table>
+
+<p align="center">
+  <b>Thanks for visiting — feel free to explore my projects or say hi.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F97316,50:FF79C6,100:6E56CF" alt="Footer wave" />
+</p>
