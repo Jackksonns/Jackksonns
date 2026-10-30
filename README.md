@@ -4,10 +4,6 @@
 
 I like taking an interesting question, turning it into a small experiment, and writing down what I learn. My interests span computer vision, operations research, and intelligent systems built around language.
 
-[Selected work](#selected-work) · [Interests](#interests) · [Notes & writing](#notes--writing)
-
----
-
 ## Interests
 
 **Computer vision**  
@@ -22,12 +18,9 @@ LLMs, natural language processing, and agent-based systems.
 ## Selected work
 
 **[PyTorch Deep Learning Notes](https://github.com/Jackksonns/pytorch-deep-learning-notes)**  
-*PyTorch · Computer vision · NLP*
 
 Runnable examples and annotated notes covering computer vision, NLP, transfer learning, and fine-tuning.
 
 ## Notes & writing
-
-I keep notes as I learn, experiment, and connect ideas across fields.
 
 [Technical notes on CSDN](https://blog.csdn.net/2302_80218188)
