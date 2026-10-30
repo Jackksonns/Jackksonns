@@ -1,4 +1,4 @@
-# Jackson ZHOU
+# [Jackson ZHOU](https://github.com/Jackksonns)
 
 *Machine learning, optimization, and a curiosity for how things work.*
 
