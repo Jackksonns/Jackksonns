@@ -1,15 +1,15 @@
+
 ## Hi there, I'm [Jackson ZHOU](https://github.com/Jackksonns) 👋
 
 Interested in Computer Vision, Language Models, and AI Agents.
 
 ### 🎓 Education
 
-- **South China Normal University**  
-  B.Sc. in Information Management and Information Systems (IMIS)
-
-- **University of Aberdeen**  
-  B.Sc. in Business Management and Information Systems (BMIS)
-
+| Year | Institution | Program | Highlights |
+|:---:|:---|:---|:---|
+| 2023–Present | **South China Normal University** | B.Sc. in Information Management and Information Systems (IMIS) | - |
+| 2023–Present | **University of Aberdeen** | B.Sc. in Business Management and Information Systems (BMIS) | - |
+| Jul 2024 | **University of Oxford** | Summer School —— Business, Finance and Management | Grade A-; |
 
 ### 🔍 Interests
 
